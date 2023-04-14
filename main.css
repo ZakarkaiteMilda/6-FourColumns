@@ -23,22 +23,22 @@ p {
 }
 
 .imga {
-    background-color: red;
+    background-color: #51c3cd;
 }
 
 .imgb {
-    background-color: yellow;
+    background-color: #3a6ec1;
 }
 
 .imgc {
-    background-color: aqua;
+    background-color: #f34d33;
 }
 
 .imgd {
-    background-color: grey;
+    background-color: #919191
 }
 
 h2 {
-    color: red;
+    color: #f34d33;
 }
 
