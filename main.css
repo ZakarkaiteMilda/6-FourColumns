@@ -1,0 +1,44 @@
+.container {
+    display: flex;
+    gap: 110px;
+    margin-top: 150px;
+    margin-left: 100px;
+    
+}
+
+img {
+    height: 200px;
+    width: 200px;
+    background-color: aqua;
+   
+}
+
+.column {
+    width: 200px;
+    text-align: center;
+}
+
+p {
+    text-align: left;
+}
+
+.imga {
+    background-color: aqua;
+}
+
+.imgb {
+    background-color: blue;
+}
+
+.imgc {
+    background-color: red;
+}
+
+.imgd {
+    background-color: grey;
+}
+
+h2 {
+    color: red;
+}
+
