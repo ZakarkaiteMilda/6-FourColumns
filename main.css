@@ -9,7 +9,7 @@
 img {
     height: 200px;
     width: 200px;
-    background-color: aqua;
+    filter: invert(1);
    
 }
 
@@ -23,15 +23,15 @@ p {
 }
 
 .imga {
-    background-color: aqua;
+    background-color: red;
 }
 
 .imgb {
-    background-color: blue;
+    background-color: yellow;
 }
 
 .imgc {
-    background-color: red;
+    background-color: aqua;
 }
 
 .imgd {
